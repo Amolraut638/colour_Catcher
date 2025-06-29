@@ -29,6 +29,7 @@ A grid of coloured squares appears on the screen. A target colour is shown, and 
 - index.html
 - style.css
 - script.js
+- Readme.md
 ```
 
 ## 💻 Tech Stack
